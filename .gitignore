@@ -86,3 +86,7 @@ logs/*.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Custom Environments
+.venv311/
+.venv311_new/
